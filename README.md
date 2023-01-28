@@ -13,11 +13,13 @@
 <br>
 <br>
 <br>
+
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - Personal website [link](https://mujahidin.netlify.app)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAFX1V5VT_0/MHEZoNPdG-Drs8fCJYAqkQ/view?utm_content=DAFX1V5VT_0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <br>
+
 <a href="[https://www.linkedin.com/in/mujahidin-8a5296242]" target="_blank">
 <img src="https://img.shields.io/badge/linkedin &#8594;-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
 </a>
