@@ -23,7 +23,14 @@
 - Currently learning Web Development by Self
 - Personal website [link](https://mujahidin.netlify.app)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAFX1V5VT_0/MHEZoNPdG-Drs8fCJYAqkQ/view?utm_content=DAFX1V5VT_0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
+<br>
+<a href="[https://www.linkedin.com/in/mujahidin-8a5296242]" target="_blank">
+<img src="https://img.shields.io/badge/linkedin &#8594;-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+<br>
+<a href="mailto:mujahidin28394@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail &#8594;-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -33,27 +40,6 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<div align='left'>
-<br>
-<div align='left'>
 
-<ul>
-
-<li>
-<a href="[https://www.linkedin.com/in/mujahidin-8a5296242]" target="_blank">
-<img src="https://img.shields.io/badge/linkedin &#8594;-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-
-<br>
-
-<li>
-<a href="mailto:mujahidin28394@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail &#8594;-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
 
