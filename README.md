@@ -16,7 +16,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- Currently learning Web Development n UI/UX Design by Self
 - Personal website [link](https://mujahidin.netlify.app)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAFX1V5VT_0/MHEZoNPdG-Drs8fCJYAqkQ/view?utm_content=DAFX1V5VT_0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <br>
