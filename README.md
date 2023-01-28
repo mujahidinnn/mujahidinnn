@@ -13,7 +13,6 @@
 
 <br>
 <br>
-<br>
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development n UI/UX Design by Self
