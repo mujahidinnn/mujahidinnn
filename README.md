@@ -27,7 +27,6 @@
 <a href="[https://www.linkedin.com/in/mujahidin-8a5296242]" target="_blank">
 <img src="https://img.shields.io/badge/linkedin &#8594;-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
 </a>
-<br>
 <a href="mailto:mujahidin28394@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail &#8594;-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail  />
 </a>
