@@ -21,7 +21,7 @@
 <br>
 
 <a href="[https://www.linkedin.com/in/mujahidin-8a5296242]" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg" alt=linkedin />
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?&logo=linkedin" alt=linkedin />
 </a>
 <a href="mailto:mujahidin28394@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail &#8594;-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail  />
