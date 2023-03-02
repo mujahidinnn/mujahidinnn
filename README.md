@@ -15,9 +15,8 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently learning Web Development n UI/UX Design by Self
-- Personal website [link](https://mujahidin.netlify.app)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAFX1V5VT_0/MHEZoNPdG-Drs8fCJYAqkQ/view?utm_content=DAFX1V5VT_0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- My personal website [link](https://mujahidin.netlify.app)
+- My resume [link](https://www.canva.com/design/DAFX1V5VT_0/MHEZoNPdG-Drs8fCJYAqkQ/view?utm_content=DAFX1V5VT_0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <br>
 
 <a href="[https://www.linkedin.com/in/mujahidin-8a5296242]" target="_blank">
@@ -26,5 +25,5 @@
 <a href="mailto:mujahidin28394@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt=mail  />
 </a>
-<br>
+
 
