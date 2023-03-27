@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt=mail  />
 </a>
 	<a href="[https://medium.com/@mujahidindev]" target="_blank">
-<img src="https://img.shields.io/badge/medium-%0000000.svg?logo=medium&logoColor=white" alt=medium  />
+<img src="https://img.shields.io/badge/medium-%lightgray.svg?logo=medium&logoColor=white" alt=medium  />
 </a>
 </div>
 	
