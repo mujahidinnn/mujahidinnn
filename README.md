@@ -7,13 +7,13 @@
 <br>
 <div style={{display:"flex">
 <a href="[https://www.linkedin.com/in/mujahidin-8a5296242]" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?&logo=linkedin" alt=linkedin />
+Linkedin
 </a>
 <a href="mailto:mujahidin28394@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt=mail  />
+Gmail
 </a>
 	<a href="[https://medium.com/@mujahidindev]" target="_blank">
-<img src="https://img.shields.io/badge/medium-%2300acee.svg?logo=medium&logoColor=white" alt=medium  />
+Medium
 </a>
 </div>
 	
