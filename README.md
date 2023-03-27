@@ -12,6 +12,9 @@
 <a href="mailto:mujahidin28394@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt=mail  />
 </a>
+	<a href="[https://medium.com/@mujahidindev]" target="_blank">
+<img src="https://img.shields.io/badge/medium-%23EA4335.svg?logo=medium&logoColor=white" alt=medium  />
+</a>
 </div>
 	
 
