@@ -9,19 +9,4 @@
   <a href="https://medium.com/@mujahidindev" target="_blank">Medium</a>
 </div>
 
-<style>
-  body {
-    font-family: 'Arial', sans-serif;
-  }
 
-  img {
-    border-radius: 50%;
-    margin-right: 10px;
-  }
-
-  a {
-    text-decoration: none;
-    color: #0077cc;
-    margin-right: 10px;
-  }
-</style>
