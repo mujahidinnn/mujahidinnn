@@ -9,9 +9,9 @@
 LinkedIn
 </a>
 <a href="mailto:mujahidin28394@gmail.com" target="_blank">
-| Gmail
+| {" "} Gmail
 </a>
 <a href="https://medium.com/@mujahidindev" target="_blank">
-| Medium
+| {" "} Medium
 </a>
 </div>
