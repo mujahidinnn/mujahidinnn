@@ -11,7 +11,7 @@
   [![Gmail](https://img.shields.io/badge/-gmail-446078?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mujahidin28394@gmail.com)&nbsp;
   [![Linkedin](https://img.shields.io/badge/-linkedin-446078?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mujahidin18)&nbsp;
   [![Discord](https://img.shields.io/badge/-Discord-446078?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mujahidin#7123)&nbsp;
-  [![Medium](https://img.icons8.com/?size=100&id=bocK2vOACVtF&format=png&color=000000)](https://medium.com/@mujahidindev)&nbsp;
+  [![Medium](https://img.shields.io/badge/-Medium-446078?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mujahidindev)&nbsp;
 </div>
 
 
