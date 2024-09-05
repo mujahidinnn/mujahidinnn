@@ -1,4 +1,4 @@
-## <picture><img src="https://tenor.com/bzGY1.gif" width="50px"></picture> **About me**
+## <picture><img src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width="50px"></picture> **About me**
 
 - A passionate self-taught Front-end developer
 - My resume [link](https://www.canva.com/design/DAFX1V5VT_0/MHEZoNPdG-Drs8fCJYAqkQ/view?utm_content=DAFX1V5VT_0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
