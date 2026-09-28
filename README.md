@@ -1,6 +1,6 @@
 ## <picture><img src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width="50px"></picture> **About Me**
 
-- 👨‍💻 A passionate **Frontend Developer** with over 3 years of hands-on experience in modern web technologies.
+- 👨‍💻 A passionate **Frontend Developer** with over 4 years of hands-on experience in modern web technologies.
 - 🗺️ Specializing in **WebGIS integration**, data-driven dashboards, and spatial data visualization.
 - 📄 Check out my [Resume / CV](https://mujahidin.my.id/me.pdf)
 
